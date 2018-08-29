@@ -1,4 +1,4 @@
-# test
+# collection
 
 > A Vue.js project
 
